@@ -6,6 +6,7 @@ g# Welcome to Jekyll!
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : jekyll-theme-minimal
 locale                   : "en-US"
 title                    : "Eugène Dettaa Homepage"
 title_separator          : "-"
